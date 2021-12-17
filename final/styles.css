@@ -1,0 +1,16 @@
+header {
+    background-color: red;
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+body {
+    background-color: black;
+}
+p {
+    color: red;
+}
+h2 {
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+#wrapper {
+    display: grid;
+    grid-template-columns: 160px 1fr 160px;
+    grid-template-rows: 200px auto 100px;
+}
+.red {
+    background-color: red;
+    grid-column: 1fr;
+    grid-row: 1fr;
+}
+.orange {
+    background-color: orange;
+}
